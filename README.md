@@ -2,6 +2,7 @@
 Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
 
 Project Code-Canine 🐕
+
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc)
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
