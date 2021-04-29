@@ -23,12 +23,18 @@ This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript. T
 The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access. This is a project will be contributed between Fall 2020 up to May or June 2021.
 
 
-<h4>Porfolio Cloud App ⛅</h4>
+<h4>Portfolio Cloud App ⛅</h4>
 
 [![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=Portfolio-CloudApp)](https://github.com/VictorCam/Portfolio-CloudApp)
 
 This project is the final project with the Instructor Chaundry at Oregon State University. The project uses Nodejs and was hosted in Google Cloud.
 
+
+<h4>Chingu Book Search </h4>
+
+[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=Chingu-Prework-Project-Book-Finder)](https://github.com/VictorCam/Chingu-Prework-Project-Book-Finder)
+
+This project is basically a book finder. We need to integrate it with the Google Books API. The Purpose of this project is to make API calls and dealing with edge cases.
 
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
