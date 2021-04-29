@@ -7,7 +7,7 @@
 <br>
 
 
-![https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam) • ![campav@oregonstate.edu](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important)
+![https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • ![campav@oregonstate.edu](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important) • [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
 
 <h5>Project Code-Canine (WIP) 🐕</h5>
