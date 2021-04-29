@@ -2,6 +2,9 @@
 
 I'm a Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
 
+<p><em>Graduating (soon) at <a href="https://oregonstate.edu/>University of Brasilia</a></br> 
+</em></p>
+
 [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
 Project Code-Canine 🐕
