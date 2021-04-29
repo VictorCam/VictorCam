@@ -1,6 +1,5 @@
-<h3>Hi there! 👋🦊<br>I'm Victor Campa<br>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.</h3>
-
-<p><em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></em></p>
+<h2>Hi there! 👋🦊 I'm Victor Campa</h2> ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
+<h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. <em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></em></h5>
 
 [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
@@ -8,7 +7,6 @@ Project Code-Canine 🐕
 
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
 <!--
 **VictorCam/VictorCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
