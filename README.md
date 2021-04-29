@@ -3,7 +3,7 @@
 <h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. <em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></em></h5>
 
 <div align="center">
-  <a href="nothing.com"><img src="NA"></a>
+<!--   <a href="nothing.com"><img src="NA"></a> -->
 <br>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam)
