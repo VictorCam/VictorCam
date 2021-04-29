@@ -5,12 +5,10 @@
 <div align="center">
 <!--   <a href="nothing.com"><img src="NA"></a> -->
 <br>
-  
-![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam)
 
-<h4> <a href="https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing">Resume</a> • <a href="nothing.com">NA</a> • <a href="nothing.com">NA</a> • <a href="nothing.com">NA</a> </h4>
 
-[![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
+<h4> <a href="https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing">Resume</a> • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam) • <a href="nothing.com">NA</a> </h4>
+
 
 <h5>Project Code-Canine (WIP) 🐕</h5>
 
