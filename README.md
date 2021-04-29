@@ -1,6 +1,4 @@
-### Hello, my names Victor Campa!
-
-I'm a Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
+<h3>Hi there! 👋🦊<br>I'm Victor Campa<br>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.</h3>
 
 <p><em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></em></p>
 
