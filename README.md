@@ -4,13 +4,17 @@
 
 [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
+<h5>Project Code-Canine (WIP) 🐕</h5>
+
+[![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc)
+
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
 
 
-<h5>Project Code-Canine (WIP) 🐕</h5>
 
-[![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc)
+
+
 
 
 <!--
