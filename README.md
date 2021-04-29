@@ -13,15 +13,14 @@
 
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc) 
 
-This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript.
-
+This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript. This app is meant to take inspiration to social media app sites and other sites to create it's own type of platform. 
 
 
 <h4>Documentation Management System (WIP for CS 461) 🔧</h4>
 
 [![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=CS461_Project)](https://github.com/VictorCam/CS461_Project) 
 
-The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access.
+The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access. This is a project will be contributed between Fall 2020 up to May or June 2021.
 
 
 <h4>Porfolio Cloud App ⛅</h4>
