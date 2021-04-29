@@ -1,9 +1,8 @@
-<h2>Hi there! 👋🦊 I'm Victor Campa</h2>
+<h2>Hi there! I'm Victor Campa! 👋🦊 </h2>
 
-<h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></h5>
+<h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. Aspiring to build my own personal full stack project.  Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a> with a bachelors degree in Computer Science.</h5>
 
 <div align="center">
-<!--   <a href="nothing.com"><img src="NA"></a> -->
 <br>
 
 
@@ -13,6 +12,12 @@
 <h5>Project Code-Canine (WIP) 🐕</h5>
 
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc)
+
+
+<h5>Documentation Management System (WIP for CS 461) 🔧</h5>
+
+[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=CS461_Project)](https://github.com/VictorCam/CS461_Project)
+
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
