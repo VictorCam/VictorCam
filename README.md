@@ -30,7 +30,7 @@ The document management system time stamps documents, documents are immutable on
 This project is the final project with the Instructor Chaundry at Oregon State University. The project uses Nodejs and was hosted in Google Cloud.
 
 
-<h4>Chingu Book Search </h4>
+<h4>Chingu Book Search 📒</h4>
 
 [![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=Chingu-Prework-Project-Book-Finder)](https://github.com/VictorCam/Chingu-Prework-Project-Book-Finder)
 
