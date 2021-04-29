@@ -1,12 +1,12 @@
 <h2>Hi there! I'm Victor Campa! 👋🦊 </h2>
 
-<h4>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. Aspiring to build my own personal full stack project.  Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a> with a bachelors degree in Computer Science.</h4>
+<h4>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. Aspiring to build my own personal full stack project.  Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a> with a bachelors degree in CS.</h4>
 
 <div align="center">
 <br>
 
 
-![https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • ![campav@oregonstate.edu](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important) • [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
+![https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • ![mailto:campav@oregonstate.edu](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important) • [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
 
 <h5>Project Code-Canine (WIP) 🐕</h5>
@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 
 - 💬 Ask me about ...
-- 
-- 📫 How to reach me: ...
 - 
 - ⚡ Fun fact: ...
 - 
