@@ -1,6 +1,8 @@
-<h2>Hi there! 👋🦊 I'm Victor Campa</h2> ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
+<h2>Hi there! 👋🦊 I'm Victor Campa</h2>
 
 <h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. <em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></em></h5>
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
 [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
