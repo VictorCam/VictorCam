@@ -1,9 +1,6 @@
-### Hi there Victor Campa here! 👋
-Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
+### Welcome to my profile
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam)](https://github.com/VictorCam/github-readme-stats)
-
-
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
 <!--
 **VictorCam/VictorCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
