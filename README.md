@@ -2,7 +2,7 @@
 
 I'm a Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
 
-<p><em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
