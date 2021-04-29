@@ -10,16 +10,19 @@
 
 <h4>Project Code-Canine (WIP) 🐕</h4>
 
-[![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc) This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript.
+[![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc) 
+This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript.
 
 
 <h4>Documentation Management System (WIP for CS 461) 🔧</h4>
 
-[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=CS461_Project)](https://github.com/VictorCam/CS461_Project) The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access.
+[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=CS461_Project)](https://github.com/VictorCam/CS461_Project) 
+The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access.
 
 <h4>Porfolio Cloud App ⛅</h4>
 
 [![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=Portfolio-CloudApp)](https://github.com/VictorCam/Portfolio-CloudApp)
+This project is the final project with the Instructor Chaundry at Oregon State University. The project uses Nodejs and was hosted in Google Cloud.
 
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
