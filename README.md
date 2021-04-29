@@ -1,6 +1,6 @@
 <h2>Hi there! 👋🦊 I'm Victor Campa</h2>
 
-<h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. <em>Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></em></h5>
+<h5>Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform. Graduting (soon) at <a href="https://oregonstate.edu">Oregon State University</a></h5>
 
 <div align="center">
 <!--   <a href="nothing.com"><img src="NA"></a> -->
