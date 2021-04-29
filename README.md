@@ -1,5 +1,8 @@
-### Welcome to my profile!
-Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
+### Hello, my names Victor Campa!
+
+I'm a Full stack web developer and software engineer. Able to solve problems, use frameworks, and learn new technologies on any platform.
+
+[![GitHub VictorCam](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
 Project Code-Canine 🐕
 
