@@ -6,8 +6,9 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
-Project Code-Canine 🐕
 
+
+<h5>Project Code-Canine 🐕</h5>
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc)
 
 
