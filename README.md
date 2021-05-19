@@ -16,7 +16,7 @@
 This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript. This app is meant to take inspiration to social media app sites and other sites to create it's own type of platform. 
 
 
-<h4>Documentation Management System (WIP for CS 461) 🔧</h4>
+<h4>Documentation Management System ✉️</h4>
 
 [![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=CS461_Project)](https://github.com/VictorCam/CS461_Project) 
 
