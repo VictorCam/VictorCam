@@ -13,7 +13,7 @@
 
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc) 
 
-This is a full stack app project that uses Vue, Nodejs, MySQL, and Javascript. This app is meant to take inspiration to social media app sites and other sites to create it's own type of platform. 
+A full stack app project that is simple and scalable for most fuctional requirements
 
 
 <h4>Documentation Management System ✉️</h4>
