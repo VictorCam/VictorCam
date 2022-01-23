@@ -5,7 +5,7 @@
 <div align="center">
 
 
-[![VictorCam Resume](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success)](https://docs.google.com/document/d/1Mu2vgXmPFM0f9UAvwkv0l5wTwZLK8G_96da9jABNSWI/edit?usp=sharing) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • [![VictorCam Email](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important)](mailto:campav@oregonstate.edu) • [![VictorCam GitHub](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
+[![VictorCam Resume](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success)](https://docs.google.com/document/d/18S8JYCI4hj6F7bjEwpDMD2Rs0uEpWpmxWH_kLNPCV04/edit?usp=sharing) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • [![VictorCam Email](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important)](mailto:campav@oregonstate.edu) • [![VictorCam GitHub](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam)
 
 <h2 align="center">PROJECT PORTFOLIO</h2>
 
