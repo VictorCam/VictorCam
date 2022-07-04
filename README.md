@@ -13,7 +13,7 @@
 
 [![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc) 
 
-A full stack wip project. Utilizing bleeding edge security packages, rate limiting by ip's using redis which could be scaled out without race conditions and a fallback to memory when redis is down), a try catch wrapper to avoid larger files, middleware functions to avoid repeating code (dry code). Paralellize certain network calls to increase throughput. All code is commented for easy understandability, and using async (when needed) instead of callbacks to avoid confusing code (pyramid of doom), files are separated according to their proper requirements, and authorization tokens are stateless and used to prevent cross site request forgery. A RESTful and stateless application that can be easily scaled and understood.
+A full stack wip project. rate limiting, middleware functions to avoid repeating code (dry code). Paralellize certain network calls to increase throughput. All code is commented for understandability, and using await instead of callbacks, files are separated according to their proper requirements, and authorization tokens are stateless and used to prevent cross site request forgery. RESTful and stateless application that can be easily scaled.
   
 
 <h4>Documentation Management System ✉️</h4>
