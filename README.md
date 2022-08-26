@@ -4,10 +4,18 @@
 
 <div align="center">
 
-
 [![VictorCam Resume](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success)](https://docs.google.com/document/d/18S8JYCI4hj6F7bjEwpDMD2Rs0uEpWpmxWH_kLNPCV04/edit?usp=sharing) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • [![VictorCam Email](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important)](mailto:victor.d.campa@gmail.com) • [![VictorCam GitHub](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam) • [![CodePens](https://img.shields.io/badge/%F0%9F%96%8A%EF%B8%8F-CodePen-%236560e0)](https://codepen.io/victorcam)
 
 <h2 align="center">PROJECT PORTFOLIO</h2>
+
+<h4 >Online Demo Links 🔗</h4>
+<a href='https://vcalc.surge.sh/'>Responsive Calculator 🤓</a><br /><br />
+<a href='https://tictactoezon.surge.sh/'>TicTacToe ✖️🅾️</a><br /><br />
+<a href='https://jstwitter.surge.sh/'>Responsive Twitter TimeLine 🐦</a><br /><br />
+<a href='https://codepen.io/victorcam/pen/JjOPwEo'>Memorial 📕</a><br /><br />
+<a href='https://codepen.io/victorcam/pen/yLPBrZd'>Form Fillout ✏️</a><br /><br />
+<a href='https://victorcam.github.io/Chingu-Prework-Project-Book-Finder/'>Book Finder 📚</a><br /><br />
+<hr />
 
 <h4>Project Code-Canine (WIP) 🐕</h4>
 
@@ -42,11 +50,8 @@ This project is the final project with the Instructor Chaundry at Oregon State U
 
 This project is basically a book finder. We need to integrate it with the Google Books API. The Purpose of this project is to make API calls and dealing with edge cases.
 
-
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
 
-
-</div>
 
 
 <!--
