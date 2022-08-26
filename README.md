@@ -22,6 +22,12 @@ A full stack wip project. rate limiting, middleware functions to avoid repeating
 
 The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access. This is a project will be contributed between Fall 2020 up to May or June 2021.
 
+<h4>JSTwitter 🐦</h4>
+
+[![JSTwitter](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=jstwitter)](https://github.com/VictorCam/jstwitter)
+
+An infinite scroll twitter timeline with fake data. Built with Vanilla HTML, CSS, Javascript and using the intersection observer api! (Powered by Vite and PostCSS prefixer) 
+
 
 <h4>Portfolio Cloud App ⛅</h4>
 
