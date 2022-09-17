@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! I'm Victor Campa! 👋🦊 </h2>
+<h2 align="center"> Hi there! I'm Victor Campa! 👋 </h2>
 
 <h4>Full stack web developer. Solving problems, system designing, using frameworks, and learning new technologies. Aspiring to build my own large scale project. Graduated at <a href="https://oregonstate.edu">Oregon State University</a> with a bachelors degree in Computer Science.</h4>
 
