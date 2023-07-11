@@ -1,74 +1,39 @@
-<h2 align="center"> Hi there! I'm Victor Campa! 👋 </h2>
+## Hi There, I'm Victor Campa!
 
-<h4>Full stack web developer. Solving problems, system designing, using frameworks, and learning new technologies. Aspiring to build my own large scale project. Graduated at <a href="https://oregonstate.edu">Oregon State University</a> with a bachelors degree in Computer Science.</h4>
+[![Website](https://img.shields.io/badge/-Portfolio-e34f26?style=flat&logo=HTMl5&logoColor=white)](https://portf.surge.sh)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victor.d.campa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/VictorCam)
+[![CodePen](https://img.shields.io/badge/-CodePen-purple?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/victorcam)
 
-<div align="center">
+Software Engineer / Full Stack Developer. Solving problems, and learning new technologies. Graduated from Oregon State University with a bachelors degree in Computer Science.
 
-[![VictorCam Resume](https://img.shields.io/badge/%F0%9F%93%9D-Resume-success)](https://docs.google.com/document/d/18S8JYCI4hj6F7bjEwpDMD2Rs0uEpWpmxWH_kLNPCV04/edit?usp=sharing) • ![](https://visitor-badge.glitch.me/badge?page_id=VictorCam.VictorCam) • [![VictorCam Email](https://img.shields.io/badge/%F0%9F%93%AC-Contact-important)](mailto:victor.d.campa@gmail.com) • [![VictorCam GitHub](https://img.shields.io/github/followers/VictorCam?label=follow&style=social)](https://github.com/VictorCam) • [![CodePens](https://img.shields.io/badge/%F0%9F%96%8A%EF%B8%8F-CodePen-%236560e0)](https://codepen.io/victorcam)
-
-<h2 align="center">PROJECT PORTFOLIO</h2>
-
-<h4 >Online Demo Links 🔗</h4>
-<a href='https://vcalc.surge.sh/'>Responsive Calculator 🤓</a><br /><br />
-<a href='https://tictactoezon.surge.sh/'>TicTacToe ✖️🅾️</a><br /><br />
-<a href='https://jstwitter.surge.sh/'>Responsive Twitter TimeLine 🐦</a><br /><br />
-<a href='https://codepen.io/victorcam/pen/JjOPwEo'>Memorial 📕</a><br /><br />
-<a href='https://codepen.io/victorcam/pen/yLPBrZd'>Form Fillout ✏️</a><br /><br />
-<a href='https://victorcam.github.io/Chingu-Prework-Project-Book-Finder/'>Book Finder 📚</a><br /><br />
-<hr />
-
-<h4>Project Code-Canine (WIP) 🐕</h4>
-
-[![CodeCanine](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=project-cc)](https://github.com/VictorCam/project-cc) 
-
-A full stack wip project. rate limiting, middleware functions to avoid repeating code (dry code). Paralellize certain network calls to increase throughput. All code is commented for understandability, and using await instead of callbacks, files are separated according to their proper requirements, and authorization tokens are stateless and used to prevent cross site request forgery. RESTful and stateless application that can be easily scaled.
-  
-
-<h4>Documentation Management System ✉️</h4>
-
-[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=CS461_Project)](https://github.com/VictorCam/CS461_Project) 
-
-The document management system time stamps documents, documents are immutable once received. The system must have a rich and flexible set of permissions to allow or bar different groups access. This is a project will be contributed between Fall 2020 up to May or June 2021.
-
-<h4>JSTwitter 🐦</h4>
-
-[![JSTwitter](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=jstwitter)](https://github.com/VictorCam/jstwitter)
-
-An infinite scroll twitter timeline with fake data. Built with Vanilla HTML, CSS, Javascript and using the intersection observer api! (Powered by Vite and PostCSS prefixer) 
+---
 
 
-<h4>Portfolio Cloud App ⛅</h4>
+<code>Demo Links - <a href="https://tictactoezon.surge.sh/">TicTacToe.sh</a> | <a href="https://jstwitter.surge.sh/">TwitterClone.sh</a> | <a href="https://vcalc.surge.sh/">Calculator.sh</a></code>
 
-[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=Portfolio-CloudApp)](https://github.com/VictorCam/Portfolio-CloudApp)
+<code>Code Links - <a href="https://github.com/VictorCam/Boat-Loads-API/blob/main/src/server.js">BoatLoads.EXPRESS</a> | <a href="https://github.com/VictorCam/Chingu-Prework-Project-Book-Finder/blob/master/index.js">BookFinder.JS</a> | <a href="https://github.com/VictorCam/CS461_Project/tree/main/src/views">BeavDMS.VUE</a> </code>
 
-This project is the final project with the Instructor Chaundry at Oregon State University. The project uses Nodejs and was hosted in Google Cloud.
+<br>
 
-
-<h4>Chingu Book Search 📒</h4>
-
-[![CS 461](https://github-readme-stats.vercel.app/api/pin/?username=VictorCam&repo=Chingu-Prework-Project-Book-Finder)](https://github.com/VictorCam/Chingu-Prework-Project-Book-Finder)
-
-This project is basically a book finder. We need to integrate it with the Google Books API. The Purpose of this project is to make API calls and dealing with edge cases.
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCam&show_icons=true&theme=tokyonight)
-
-
-
-<!--
-**VictorCam/VictorCam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 🌱 I’m currently learning ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 
-- 🤔 I’m looking for help with ...
-- 
-- 💬 Ask me about ...
-- 
-- ⚡ Fun fact: ...
-- 
--->
+![Skills](https://img.shields.io/static/v1?label=&message=Skills:&color=111&style=flat-square)
+![HTMl5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=111&logoColor=FF0000&style=flat-square)
+![CSS](https://img.shields.io/static/v1?logo=CSS3&label=&message=CSS&color=111&logoColor=blue&style=flat-square)
+![JavaScript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=111&style=flat-square)
+![C++](https://img.shields.io/static/v1?logo=Cplusplus&label=&message=Cplusplus&color=111&logoColor=blue&style=flat-square)
+![React](https://img.shields.io/static/v1?logo=React&label=&message=React&color=111&style=flat-square)
+![Vue](https://img.shields.io/static/v1?logo=vuedotjs&label=&message=Vue&color=111&style=flat-square)
+![Svelte](https://img.shields.io/static/v1?logo=Svelte&label=&message=Svelte&color=111&style=flat-square)
+![Express](https://img.shields.io/static/v1?logo=Express&label=&message=Express&color=111&style=flat-square)
+![Nodejs](https://img.shields.io/static/v1?logo=Nodedotjs&label=&message=Node&color=111&style=flat-square)
+![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=NPM&color=111&style=flat-square)
+![Vite](https://img.shields.io/static/v1?logo=Vite&label=&message=Vite&color=111&style=flat-square)
+![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=111&style=flat-square)
+![GitHub](https://img.shields.io/static/v1?logo=GitHub&label=&message=GitHub&color=111&style=flat-square)
+![Redis](https://img.shields.io/static/v1?logo=Redis&label=&message=Redis&color=111&style=flat-square)
+![Docker](https://img.shields.io/static/v1?logo=Docker&label=&message=Docker&color=111&style=flat-square)
+![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=111&style=flat-square)
+![JSON](https://img.shields.io/static/v1?logo=JSON&label=&message=JSON&color=111&style=flat-square)
+![OOP](https://img.shields.io/static/v1?logo=OOP&label=&message=OOP&color=111&style=flat-square)
+![JWT](https://img.shields.io/static/v1?logo=JWT&label=&message=JWT&color=111&style=flat-square)
+![Bash](https://img.shields.io/static/v1?logo=Bash&label=&message=Bash&color=111&style=flat-square)
