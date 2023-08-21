@@ -12,7 +12,7 @@ Software Engineer / Full Stack Developer. Solving problems, and learning new tec
 
 <code>Demo Links - <a href="https://tictactoezon.surge.sh/">TicTacToe.sh</a> | <a href="https://jstwitter.surge.sh/">TwitterClone.sh</a> | <a href="https://vcalc.surge.sh/">Calculator.sh</a></code>
 
-<code>Code Links - <a href="https://github.com/VictorCam/Boat-Loads-API/blob/main/src/server.js">BoatLoads.EXPRESS</a> | <a href="https://github.com/VictorCam/Chingu-Prework-Project-Book-Finder/blob/master/index.js">BookFinder.JS</a> | <a href="https://github.com/VictorCam/CS461_Project/tree/main/src/views">BeavDMS.VUE</a> | <a href="https://github.com/VictorCam/twitter-redis-server/tree/master/server/routes">TwitterRedisAPI.Express</a> </code>
+<code>Code Links - <a href="https://github.com/VictorCam/Boat-Loads-API/blob/main/src/server.js">BoatLoads.EXPRESS</a> | <a href="https://github.com/VictorCam/Chingu-Prework-BookFinder/blob/master/index.js">BookFinder.JS</a> | <a href="https://github.com/VictorCam/CS461_Project/tree/main/src/views">BeavDMS.VUE</a> | <a href="https://github.com/VictorCam/twitter-redis-server/tree/master/server/routes">TwitterRedisAPI.Express</a> </code>
 
 <br>
 
