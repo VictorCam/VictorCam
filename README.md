@@ -28,6 +28,7 @@ Software Engineer / Full Stack Developer. Solving problems, and learning new tec
 ![Nodejs](https://img.shields.io/static/v1?logo=Nodedotjs&label=&message=Node&color=111&style=flat-square)
 ![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=NPM&color=111&style=flat-square)
 ![Vite](https://img.shields.io/static/v1?logo=Vite&label=&message=Vite&color=111&style=flat-square)
+![Vite](https://img.shields.io/static/v1?logo=Vitest&label=&message=Vitest&color=111&style=flat-square)
 ![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=111&style=flat-square)
 ![GitHub](https://img.shields.io/static/v1?logo=GitHub&label=&message=GitHub&color=111&style=flat-square)
 ![Redis](https://img.shields.io/static/v1?logo=Redis&label=&message=Redis&color=111&style=flat-square)
