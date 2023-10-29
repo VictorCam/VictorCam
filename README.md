@@ -1,14 +1,14 @@
-## Hi There, I'm Victor Campa!
+<h2 id="hi-there-i-m-victor-campa-">Hi There, I'm Victor Campa!</h2>
 
-[![Website](https://img.shields.io/badge/-Portfolio-e34f26?style=flat&logo=HTMl5&logoColor=white)](https://portf.surge.sh)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:victor.d.campa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/VictorCam)
-[![CodePen](https://img.shields.io/badge/-CodePen-purple?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/victorcam)
+<p><a href="https://portf.surge.sh"><img src="https://img.shields.io/badge/-Portfolio-e34f26?style=flat&amp;logo=HTMl5&amp;logoColor=white" alt="Website"></a>
+<a href="mailto:victor.d.campa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/VictorCam"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="https://codepen.io/victorcam"><img src="https://img.shields.io/badge/-CodePen-purple?style=flat&amp;logo=Codepen&amp;logoColor=white" alt="CodePen"></a></p>
 
-Software Engineer / Full Stack Developer. Solving problems, and learning new technologies. Graduated from Oregon State University with a bachelors degree in Computer Science.
 
----
+<p>Software Engineer / Full Stack Developer. Solving problems, and learning new technologies. Graduated from Oregon State University with a bachelors degree in Computer Science.</p>
 
+<hr>
 
 <code>Demo Links - <a href="https://tictactoezon.surge.sh/">TicTacToe.sh</a> | <a href="https://jstwitter.surge.sh/">TwitterClone.sh</a> | <a href="https://vcalc.surge.sh/">Calculator.sh</a></code>
 
@@ -16,25 +16,25 @@ Software Engineer / Full Stack Developer. Solving problems, and learning new tec
 
 <br>
 
-![Skills](https://img.shields.io/static/v1?label=&message=Skills:&color=111&style=flat-square)
-![HTMl5](https://img.shields.io/static/v1?logo=HTML5&label=&message=HTML5&color=111&logoColor=FF0000&style=flat-square)
-![CSS](https://img.shields.io/static/v1?logo=CSS3&label=&message=CSS&color=111&logoColor=blue&style=flat-square)
-![JavaScript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=111&style=flat-square)
-![C++](https://img.shields.io/static/v1?logo=Cplusplus&label=&message=Cplusplus&color=111&logoColor=blue&style=flat-square)
-![React](https://img.shields.io/static/v1?logo=React&label=&message=React&color=111&style=flat-square)
-![Vue](https://img.shields.io/static/v1?logo=vuedotjs&label=&message=Vue&color=111&style=flat-square)
-![Svelte](https://img.shields.io/static/v1?logo=Svelte&label=&message=Svelte&color=111&style=flat-square)
-![Express](https://img.shields.io/static/v1?logo=Express&label=&message=Express&color=111&style=flat-square)
-![Nodejs](https://img.shields.io/static/v1?logo=Nodedotjs&label=&message=Node&color=111&style=flat-square)
-![NPM](https://img.shields.io/static/v1?logo=npm&label=&message=NPM&color=111&style=flat-square)
-![Vite](https://img.shields.io/static/v1?logo=Vite&label=&message=Vite&color=111&style=flat-square)
-![Vite](https://img.shields.io/static/v1?logo=Vitest&label=&message=Vitest&color=111&style=flat-square)
-![Git](https://img.shields.io/static/v1?logo=Git&label=&message=Git&color=111&style=flat-square)
-![GitHub](https://img.shields.io/static/v1?logo=GitHub&label=&message=GitHub&color=111&style=flat-square)
-![Redis](https://img.shields.io/static/v1?logo=Redis&label=&message=Redis&color=111&style=flat-square)
-![Docker](https://img.shields.io/static/v1?logo=Docker&label=&message=Docker&color=111&style=flat-square)
-![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=111&style=flat-square)
-![JSON](https://img.shields.io/static/v1?logo=JSON&label=&message=JSON&color=111&style=flat-square)
-![OOP](https://img.shields.io/static/v1?logo=OOP&label=&message=OOP&color=111&style=flat-square)
-![JWT](https://img.shields.io/static/v1?logo=JWT&label=&message=JWT&color=111&style=flat-square)
-![Bash](https://img.shields.io/static/v1?logo=Bash&label=&message=Bash&color=111&style=flat-square)
+<p><img src="https://img.shields.io/static/v1?label=&amp;message=Skills:&amp;color=111&amp;style=flat-square" alt="Skills">
+<img src="https://img.shields.io/static/v1?logo=HTML5&amp;label=&amp;message=HTML5&amp;color=111&amp;logoColor=FF0000&amp;style=flat-square" alt="HTMl5">
+<img src="https://img.shields.io/static/v1?logo=CSS3&amp;label=&amp;message=CSS&amp;color=111&amp;logoColor=blue&amp;style=flat-square" alt="CSS">
+<img src="https://img.shields.io/static/v1?logo=JavaScript&amp;label=&amp;message=JavaScript&amp;color=111&amp;style=flat-square" alt="JavaScript">
+<img src="https://img.shields.io/static/v1?logo=Cplusplus&amp;label=&amp;message=Cplusplus&amp;color=111&amp;logoColor=blue&amp;style=flat-square" alt="C++">
+<img src="https://img.shields.io/static/v1?logo=React&amp;label=&amp;message=React&amp;color=111&amp;style=flat-square" alt="React">
+<img src="https://img.shields.io/static/v1?logo=vuedotjs&amp;label=&amp;message=Vue&amp;color=111&amp;style=flat-square" alt="Vue">
+<img src="https://img.shields.io/static/v1?logo=Svelte&amp;label=&amp;message=Svelte&amp;color=111&amp;style=flat-square" alt="Svelte">
+<img src="https://img.shields.io/static/v1?logo=Express&amp;label=&amp;message=Express&amp;color=111&amp;style=flat-square" alt="Express">
+<img src="https://img.shields.io/static/v1?logo=Nodedotjs&amp;label=&amp;message=Node&amp;color=111&amp;style=flat-square" alt="Nodejs">
+<img src="https://img.shields.io/static/v1?logo=npm&amp;label=&amp;message=NPM&amp;color=111&amp;style=flat-square" alt="NPM">
+<img src="https://img.shields.io/static/v1?logo=Vite&amp;label=&amp;message=Vite&amp;color=111&amp;style=flat-square" alt="Vite">
+<img src="https://img.shields.io/static/v1?logo=Vitest&amp;label=&amp;message=Vitest&amp;color=111&amp;style=flat-square" alt="Vite">
+<img src="https://img.shields.io/static/v1?logo=Git&amp;label=&amp;message=Git&amp;color=111&amp;style=flat-square" alt="Git">
+<img src="https://img.shields.io/static/v1?logo=GitHub&amp;label=&amp;message=GitHub&amp;color=111&amp;style=flat-square" alt="GitHub">
+<img src="https://img.shields.io/static/v1?logo=Redis&amp;label=&amp;message=Redis&amp;color=111&amp;style=flat-square" alt="Redis">
+<img src="https://img.shields.io/static/v1?logo=Docker&amp;label=&amp;message=Docker&amp;color=111&amp;style=flat-square" alt="Docker">
+<img src="https://img.shields.io/static/v1?logo=MySQL&amp;label=&amp;message=MySQL&amp;color=111&amp;style=flat-square" alt="MySQL">
+<img src="https://img.shields.io/static/v1?logo=JSON&amp;label=&amp;message=JSON&amp;color=111&amp;style=flat-square" alt="JSON">
+<img src="https://img.shields.io/static/v1?logo=OOP&amp;label=&amp;message=OOP&amp;color=111&amp;style=flat-square" alt="OOP">
+<img src="https://img.shields.io/static/v1?logo=JWT&amp;label=&amp;message=JWT&amp;color=111&amp;style=flat-square" alt="JWT">
+<img src="https://img.shields.io/static/v1?logo=Bash&amp;label=&amp;message=Bash&amp;color=111&amp;style=flat-square" alt="Bash"></p>
