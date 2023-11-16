@@ -40,9 +40,12 @@
 <img src="https://img.shields.io/static/v1?logo=MySQL&amp;label=&amp;message=SQL&amp;color=111&amp;style=flat-square" alt="Structured Query Language">
 <img src="https://img.shields.io/static/v1?logo=KQL&amp;label=&amp;message=KQL&amp;color=111&amp;style=flat-square" alt="Kusto Query Language">
 <img src="https://img.shields.io/static/v1?logo=JSON&amp;label=&amp;message=JSON&amp;color=111&amp;style=flat-square" alt="JSON">
+<img src="https://img.shields.io/static/v1?logo=powerbi&amp;label=&amp;message=Power BI&amp;color=111&amp;style=flat-square" alt="Power BI">
+<img src="https://img.shields.io/static/v1?logo=powerfx&amp;label=&amp;message=Power Fx&amp;color=111&amp;style=flat-square" alt="Power Fx">
 <img src="https://img.shields.io/static/v1?logo=powervirtualagents&amp;label=&amp;message=Power Virtual Agents&amp;color=111&amp;style=flat-square" alt="Power Virtual Agent">
 <img src="https://img.shields.io/static/v1?logo=powerautomate&amp;label=&amp;message=Power Automate&amp;color=111&amp;style=flat-square" alt="power automate">
 <img src="https://img.shields.io/static/v1?logo=jsonwebtokens&amp;label=&amp;message=Json Web Tokens&amp;color=111&amp;style=flat-square" alt="Json Web Tokens">
 <img src="https://img.shields.io/static/v1?logo=gnubash&amp;label=&amp;message=Bash&amp;color=111&amp;style=flat-square" alt="Bash">
+<img src="https://img.shields.io/static/v1?logo=MicrosoftExcel&amp;label=&amp;message=Excel&amp;color=111&amp;style=flat-square" alt="Microsoft Excel">
 <img src="https://img.shields.io/static/v1?logo=svg&amp;label=&amp;message=SVG&amp;color=111&amp;style=flat-square" alt="Scalable Vector Graphics">
 <img src="https://img.shields.io/static/v1?logo=OOP&amp;label=&amp;message=Object Oriented Programming&amp;color=111&amp;style=flat-square" alt="OOP"></p>
