@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/static/v1?logo=JSON&amp;label=&amp;message=JSON&amp;color=111&amp;style=flat-square" alt="JSON">
 <img src="https://img.shields.io/static/v1?logo=powerbi&amp;label=&amp;message=Power BI&amp;color=111&amp;style=flat-square" alt="Power BI">
 <img src="https://img.shields.io/static/v1?logo=powerfx&amp;label=&amp;message=Power Fx&amp;color=111&amp;style=flat-square" alt="Power Fx">
-<img src="https://img.shields.io/static/v1?logo=powervirtualagents&amp;label=&amp;message=Power Virtual Agents&amp;color=111&amp;style=flat-square" alt="Power Virtual Agent">
+<img src="https://img.shields.io/static/v1?logo=powervirtualagents&amp;label=&amp;message=Microsoft Co-Pilot Studio&amp;color=111&amp;style=flat-square" alt="Microsoft Co-Pilot Studio">
 <img src="https://img.shields.io/static/v1?logo=powerautomate&amp;label=&amp;message=Power Automate&amp;color=111&amp;style=flat-square" alt="power automate">
 <img src="https://img.shields.io/static/v1?logo=jsonwebtokens&amp;label=&amp;message=Json Web Tokens&amp;color=111&amp;style=flat-square" alt="Json Web Tokens">
 <img src="https://img.shields.io/static/v1?logo=gnubash&amp;label=&amp;message=Bash&amp;color=111&amp;style=flat-square" alt="Bash">
