@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/static/v1?logo=unocss&amp;label=&amp;message=UnoCSS&amp;color=111&amp;style=flat-square" alt="UnoCSS">
 <img src="https://img.shields.io/static/v1?logo=JavaScript&amp;label=&amp;message=JavaScript&amp;color=111&amp;style=flat-square" alt="JavaScript">
 <img src="https://img.shields.io/static/v1?logo=Cplusplus&amp;label=&amp;message=Cplusplus&amp;color=111&amp;logoColor=blue&amp;style=flat-square" alt="C++">
+  <img src="https://img.shields.io/static/v1?logo=Python&amp;label=&amp;message=Python&amp;color=111&amp;style=flat-square" alt="Python">
 <img src="https://img.shields.io/static/v1?logo=React&amp;label=&amp;message=React&amp;color=111&amp;style=flat-square" alt="React">
 <img src="https://img.shields.io/static/v1?logo=vuedotjs&amp;label=&amp;message=Vue&amp;color=111&amp;style=flat-square" alt="Vue">
 <img src="https://img.shields.io/static/v1?logo=Svelte&amp;label=&amp;message=Svelte&amp;color=111&amp;style=flat-square" alt="Svelte">
@@ -34,7 +35,6 @@
 <img src="https://img.shields.io/static/v1?logo=Vite&amp;label=&amp;message=Vite&amp;color=111&amp;style=flat-square" alt="Vite">
 <img src="https://img.shields.io/static/v1?logo=Vitest&amp;label=&amp;message=Vitest&amp;color=111&amp;style=flat-square" alt="Vite">
 <img src="https://img.shields.io/static/v1?logo=Git&amp;label=&amp;message=Git&amp;color=111&amp;style=flat-square" alt="Git">
-<img src="https://img.shields.io/static/v1?logo=GitHub&amp;label=&amp;message=GitHub&amp;color=111&amp;style=flat-square" alt="GitHub">
 <img src="https://img.shields.io/static/v1?logo=Redis&amp;label=&amp;message=Redis&amp;color=111&amp;style=flat-square" alt="Redis">
 <img src="https://img.shields.io/static/v1?logo=Docker&amp;label=&amp;message=Docker&amp;color=111&amp;style=flat-square" alt="Docker">
 <img src="https://img.shields.io/static/v1?logo=MySQL&amp;label=&amp;message=SQL&amp;color=111&amp;style=flat-square" alt="Structured Query Language">
