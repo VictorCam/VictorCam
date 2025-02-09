@@ -6,7 +6,7 @@
 <a href="https://codepen.io/victorcam"><img src="https://img.shields.io/badge/-CodePen-purple?style=flat&amp;logo=Codepen&amp;logoColor=white" alt="CodePen"></a></p>
 
 
-<p>Computer Science graduate from Oregon State University with a focus on both front-end and back-end technologies. I'm passionate about creating interactive, user-friendly interfaces and contributing to server-side operations. I'm eager to learn, grow, and bring new perpectives.</p>
+<p>Software Engineer, Full Stack Developer, and IT Specialist, with expertise in Vue.js, TailwindCSS, and API integration, focused on optimizing workflows and delivering scalable, efficient solutions. Skilled in implementing systems to enhance user experiences and improve operational efficiency while adhering to industry standards.</p>
 
 <hr>
 
